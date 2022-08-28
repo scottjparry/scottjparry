@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottjparry. I am an IT professional 2nd and a dad 1st.
 - 👀 I’m interested in all (okay most) things Azure and Microsoft 365 and martial arts.
-- 🌱 I’m currently studying for my AZ-305 and undertaking a Bachelors in Information Technology.
+- 🌱 I’m currently studying for my AZ-305 so I can earn my Azure Solutions Architect certification
 - 📫 You can reach me at https://www.linkedin.com/in/scottjparry/ or by emailing me at scottjparry@gmail.com
 
 <!---
